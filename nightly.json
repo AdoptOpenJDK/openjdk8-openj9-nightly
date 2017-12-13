@@ -91,7 +91,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 81495388,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-12-01T14:01:28Z",
         "updated_at": "2017-12-01T14:01:36Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u152-b16-20170112/OpenJDK8-OPENJ9_ppc64le_Linux_20170112.tar.gz"
