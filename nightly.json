@@ -283,7 +283,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 82100058,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2018-04-10T12:31:09Z",
         "updated_at": "2018-04-10T12:31:18Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u162-b12-20181004/OpenJDK8-OPENJ9_x64_Win_20181004.zip"
