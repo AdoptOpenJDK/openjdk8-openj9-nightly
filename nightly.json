@@ -155,7 +155,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 87102919,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-05-04T13:03:35Z",
         "updated_at": "2018-05-04T13:03:54Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u162-b12-20180504/OpenJDK8-OPENJ9_ppc64_AIX_20180504.tar.gz"
