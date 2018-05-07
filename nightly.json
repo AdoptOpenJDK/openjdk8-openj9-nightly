@@ -219,7 +219,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 88146936,
-        "download_count": 4,
+        "download_count": 5,
         "created_at": "2018-05-04T17:55:34Z",
         "updated_at": "2018-05-04T17:55:44Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u162-b12-20180504/OpenJDK8-OPENJ9_x64_Linux_20180504.tar.gz"
@@ -513,7 +513,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 82458452,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2018-05-02T12:32:26Z",
         "updated_at": "2018-05-02T12:32:32Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u162-b12-20180502/OpenJDK8-OPENJ9_x64_Win_20180502.zip"
