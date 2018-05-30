@@ -4,6 +4,7 @@
   "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/11242405/assets{?name,label}",
   "html_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u162-b12-20180530",
   "id": 11242405,
+  "node_id": "MDc6UmVsZWFzZTExMjQyNDA1",
   "tag_name": "jdk8u162-b12-20180530",
   "target_commitish": "master",
   "name": "jdk8u162-b12-20180530",
@@ -11,6 +12,7 @@
   "author": {
     "login": "adoptopenjdk-github-bot",
     "id": 26602665,
+    "node_id": "MDQ6VXNlcjI2NjAyNjY1",
     "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
     "gravatar_id": "",
     "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -34,11 +36,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7351022",
       "id": 7351022,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTEwMjI=",
       "name": "OpenJDK8-OPENJ9_ppc64_AIX_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -66,11 +70,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7351023",
       "id": 7351023,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTEwMjM=",
       "name": "OpenJDK8-OPENJ9_ppc64_AIX_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -98,11 +104,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7352068",
       "id": 7352068,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwNjg=",
       "name": "OpenJDK8-OPENJ9_x64_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -130,11 +138,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7352069",
       "id": 7352069,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwNjk=",
       "name": "OpenJDK8-OPENJ9_x64_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
