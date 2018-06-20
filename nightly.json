@@ -477,7 +477,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 81307114,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-06-20T01:28:44Z",
         "updated_at": "2018-06-20T01:28:49Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819061956/OpenJDK8-OPENJ9_x32_Windows_201819061956.zip"
@@ -1505,7 +1505,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 88857700,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2018-06-19T13:45:17Z",
         "updated_at": "2018-06-19T13:45:52Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819060804/OpenJDK8-OPENJ9_x64_Windows_201819060804.zip"
@@ -1613,7 +1613,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 81309112,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-06-19T13:09:21Z",
         "updated_at": "2018-06-19T13:09:25Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819060736/OpenJDK8-OPENJ9_x64_Windows_201819060736.zip"
