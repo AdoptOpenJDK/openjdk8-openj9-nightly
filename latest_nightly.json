@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 107,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-07-18T13:24:01Z",
       "updated_at": "2018-07-18T13:24:01Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201818071200/OpenJDK8-OPENJ9_x64_LinuxLH_201818071200.sha256.txt"
