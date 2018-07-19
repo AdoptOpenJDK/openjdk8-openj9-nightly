@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007403",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007403/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007403/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201819070738",
-  "id": 12007403,
-  "node_id": "MDc6UmVsZWFzZTEyMDA3NDAz",
-  "tag_name": "jdk8u172-b11-201819070738",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007545",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007545/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/12007545/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201819071201",
+  "id": 12007545,
+  "node_id": "MDc6UmVsZWFzZTEyMDA3NTQ1",
+  "tag_name": "jdk8u172-b11-201819071201",
   "target_commitish": "master",
-  "name": "jdk8u172-b11-201819070738",
+  "name": "jdk8u172-b11-201819071201",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-07-19T12:56:54Z",
-  "published_at": "2018-07-19T13:19:10Z",
+  "created_at": "2018-07-19T13:19:22Z",
+  "published_at": "2018-07-19T13:25:42Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7932842",
-      "id": 7932842,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzI4NDI=",
-      "name": "OpenJDK8-OPENJ9_x32_Windows_201819070738.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7932913",
+      "id": 7932913,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzI5MTM=",
+      "name": "OpenJDK8-OPENJ9_x64_LinuxLH_201819071201.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 111,
+      "size": 107,
       "download_count": 0,
-      "created_at": "2018-07-19T13:19:11Z",
-      "updated_at": "2018-07-19T13:19:11Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819070738/OpenJDK8-OPENJ9_x32_Windows_201819070738.sha256.txt"
+      "created_at": "2018-07-19T13:25:43Z",
+      "updated_at": "2018-07-19T13:25:43Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819071201/OpenJDK8-OPENJ9_x64_LinuxLH_201819071201.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7932843",
-      "id": 7932843,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzI4NDM=",
-      "name": "OpenJDK8-OPENJ9_x32_Windows_201819070738.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/releases/assets/7932914",
+      "id": 7932914,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzI5MTQ=",
+      "name": "OpenJDK8-OPENJ9_x64_LinuxLH_201819071201.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -93,16 +93,16 @@
         "type": "User",
         "site_admin": false
       },
-      "content_type": "application/zip",
+      "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 87612503,
+      "size": 88481166,
       "download_count": 0,
-      "created_at": "2018-07-19T13:19:11Z",
-      "updated_at": "2018-07-19T13:19:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819070738/OpenJDK8-OPENJ9_x32_Windows_201819070738.zip"
+      "created_at": "2018-07-19T13:25:43Z",
+      "updated_at": "2018-07-19T13:25:48Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201819071201/OpenJDK8-OPENJ9_x64_LinuxLH_201819071201.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/tarball/jdk8u172-b11-201819070738",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/zipball/jdk8u172-b11-201819070738",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/tarball/jdk8u172-b11-201819071201",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-nightly/zipball/jdk8u172-b11-201819071201",
   "body": "Nightly Build of jdk8u172-b11"
 }
