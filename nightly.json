@@ -387,7 +387,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 3,
+        "download_count": 5,
         "created_at": "2018-07-30T17:21:04Z",
         "updated_at": "2018-07-30T17:21:04Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201807301630/OpenJDK8-OPENJ9_ppc64le_Linux_201807301630.sha256.txt"
@@ -421,7 +421,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 87673883,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-07-30T17:21:05Z",
         "updated_at": "2018-07-30T17:21:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201807301630/OpenJDK8-OPENJ9_ppc64le_Linux_201807301630.tar.gz"
@@ -523,7 +523,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 3,
+        "download_count": 5,
         "created_at": "2018-07-31T05:50:39Z",
         "updated_at": "2018-07-31T05:50:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201807301630/OpenJDK8-OPENJ9_s390x_Linux_201807301630.sha256.txt"
@@ -727,7 +727,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 4,
+        "download_count": 6,
         "created_at": "2018-07-30T23:56:41Z",
         "updated_at": "2018-07-30T23:56:41Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201807301630/OpenJDK8-OPENJ9_x64_Linux_201807301630.sha256.txt"
@@ -761,7 +761,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 88455597,
-        "download_count": 6,
+        "download_count": 8,
         "created_at": "2018-07-30T23:56:42Z",
         "updated_at": "2018-07-30T23:56:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201807301630/OpenJDK8-OPENJ9_x64_Linux_201807301630.tar.gz"
