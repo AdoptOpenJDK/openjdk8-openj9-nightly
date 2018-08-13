@@ -300,7 +300,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 87616715,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2018-08-10T17:33:07Z",
       "updated_at": "2018-08-10T17:33:12Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u181-b13-201808101816/OpenJDK8-OPENJ9_x32_Windows_201808101816.zip"
