@@ -437,7 +437,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 88093421,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-08-29T22:50:01Z",
         "updated_at": "2018-08-29T22:50:08Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/201808291330/OpenJDK8-OPENJ9_x64_Linux_201808291330.tar.gz"
