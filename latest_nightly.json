@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2018-09-07T13:03:35Z",
       "updated_at": "2018-09-07T13:03:35Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/201809071330/OpenJDK8-OPENJ9_ppc64le_Linux_201809071330.sha256.txt"
@@ -266,7 +266,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 105,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2018-09-07T19:51:50Z",
       "updated_at": "2018-09-07T19:51:50Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/201809071330/OpenJDK8-OPENJ9_x64_Linux_201809071330.sha256.txt"
